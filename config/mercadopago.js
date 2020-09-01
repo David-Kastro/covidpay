@@ -1,0 +1,4 @@
+module.exports = {
+  publicKey: 'TEST-ad514946-53e2-4736-bb75-e621d7b9f15a',
+  accessToken: 'TEST-8383508901442910-050305-80d954b61d10807b3d6fe20164558df2-137283261',
+}
